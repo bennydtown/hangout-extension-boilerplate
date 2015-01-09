@@ -50,7 +50,8 @@ define(function(require) {
         var game = new Game(1);
         var gameController = new GameController(view, game);
         gameController.render();
-        view.children(":first").text().should.equal("You're It!");
+        view.children(":first").children(":first").text().should.equal(
+          "You're It!");
       });
 
       it("I'm not It", function() {
