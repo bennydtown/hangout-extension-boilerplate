@@ -10,6 +10,8 @@ you get..
 * Client side unit testing with Mocha and Chai
 * Code coverage reports with blanket
 
+[![Code Climate](https://codeclimate.com/github/bennydtown/hangout-extension-boilerplate/badges/gpa.svg)](https://codeclimate.com/github/bennydtown/hangout-extension-boilerplate)
+
 ## Quick Start
 
 1. Upload myExtension.xml to a publicly accesible hosting environment
