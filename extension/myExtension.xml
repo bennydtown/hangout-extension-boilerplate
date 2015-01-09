@@ -8,7 +8,7 @@
   <Content type="html"><![CDATA[
     <html>
       <head>
-        <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/bennydtown/hangout-extension-boilerplate/master/extension/static/css/tag.css" />
+        <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/bennydtown/hangout-extension-boilerplate/master/extension/static/css/myExtension.css" />
         <link type="text/css" rel="stylesheet" href="https://raw.githubusercontent.com/bennydtown/hangout-extension-boilerplate/master/extension/static/css/log.css" />
         <script
           data-main="https://raw.githubusercontent.com/bennydtown/hangout-extension-boilerplate/master/extension/static/js/init"
