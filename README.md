@@ -14,6 +14,9 @@ you get..
 
 ## Quick Start
 
+*Note: this default configuration hosts all of the static files from github: definitely not a scalable solution.  
+This also won't work in browsers with strict Mime Type checking (like Chrome).  It is meant to provide a method for just taking a quick look, and you'll want to switch over to a proper host quickly.*
+
 1. Upload myExtension.xml to a publicly accesible hosting environment
 1. Follow the Hangout Developer **Getting Started** instructions here to setup
 a new project: https://developers.google.com/+/hangouts/getting-started
