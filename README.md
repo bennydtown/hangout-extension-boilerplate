@@ -17,8 +17,10 @@ you get..
 a new project: https://developers.google.com/+/hangouts/getting-started
 1. use the URL where you uploaded **myExtension.xml** for the
 **public example XML file** field.
-1. Start a new hangout http://hangouts.google.com/start for your self and click
-on the [TODO Show icon] to open your extension.
+1. make sure to select **Extension** in the **Application Type** field.
+1. Start a new hangout http://hangouts.google.com/start
+1. In the bar to the right, choose **+Add Apps**
+1. Under the **Developer** tab, choose your extension
 
 ## Running Unit Tests
 
